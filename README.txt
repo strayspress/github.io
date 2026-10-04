@@ -1,0 +1,1 @@
+Strays Press website. Upload the CONTENTS of this folder to the root of the strayspress.github.io repository.
